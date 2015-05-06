@@ -1,6 +1,6 @@
 ## **jFormslider v1.1.0** ##
 
-jFormslider v1.0.8 is a jquery pluggin where we can convert a big form in to a slider
+jFormslider v1.1.0 is a jquery pluggin where we can convert a big form in to a slider
 Form should be in ul li format
 
 [Website](http://jformslider.com)
